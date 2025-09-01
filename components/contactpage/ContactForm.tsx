@@ -7,8 +7,8 @@ const ContactForm = () => {
     name: '',
     company: '',
     email: '',
-    service: 'UI/UX',
-    budget: '40k',
+    service: 'Web Solutions',
+    budget: '$3000 - $5000',
     message: '',
   })
 
@@ -84,7 +84,7 @@ const ContactForm = () => {
             />
           </div>
 
-          <div className="relative">
+          {/* <div className="relative">
             <label
               htmlFor="service"
               className="text-2xl leading-[1.2] tracking-[-0.48px] text-[#000000b3] dark:text-dark-100">
@@ -134,9 +134,9 @@ const ContactForm = () => {
                 />
               </svg>
             </span>
-          </div>
+          </div> */}
 
-          <div className="relative">
+          {/* <div className="relative">
             <label
               htmlFor="budget"
               className="text-2xl leading-[1.2] tracking-[-0.48px] text-[#000000b3] dark:text-dark-100">
@@ -176,7 +176,7 @@ const ContactForm = () => {
                 />
               </svg>
             </span>
-          </div>
+          </div> */}
 
           <div className="md:col-span-full">
             <label

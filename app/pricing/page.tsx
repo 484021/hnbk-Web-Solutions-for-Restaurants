@@ -13,15 +13,14 @@ const PricingPage = () => {
     <LayoutOne>
       <PageHero
         title="Pricing"
-        italicTitle="Plan"
-        badgeTitle="Pricing"
-        description=" There are many variations of available have suffered alteration in some form by
-injected words which don't look even slightly believable."
+        italicTitle="Plans"
+        badgeTitle="Restaurant Web Solutions"
+        description="Simple, transparent packages built for restaurants in the GTA. From quick launch websites to full-service digital growth, our plans help you attract more diners and keep your community engaged."
         scale
       />
       <PricingCard />
       <CTA>
-        Let's chat!
+        Let’s grow your restaurant online
         <CtaImageSlider
           slides={[
             { id: '1', img: '/images/agent/11.png' },
@@ -29,8 +28,10 @@ injected words which don't look even slightly believable."
             { id: '3', img: '/images/agent/10.png' },
           ]}
         />
-        with us.
-        <i className="block font-instrument italic max-md:inline-block max-sm:pl-2 sm:mt-10">A virtual coffee?</i>
+        together.
+        <i className="block font-instrument italic max-md:inline-block max-sm:pl-2 sm:mt-10">
+          Book a free strategy call today.
+        </i>
       </CTA>
     </LayoutOne>
   )

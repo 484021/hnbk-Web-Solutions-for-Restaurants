@@ -116,7 +116,7 @@ const Team = () => {
           </div>
         </div>
 
-        {/* Team member tabs */}
+        {/* Team member tabs
         <div className="mt-[30px] flex justify-center gap-6 max-xl:flex-wrap">
           {teamMembers.map((member) => (
             <div
@@ -134,7 +134,7 @@ const Team = () => {
               </div>
             </div>
           ))}
-        </div>
+        </div> */}
       </RevealWrapper>
     </section>
   )

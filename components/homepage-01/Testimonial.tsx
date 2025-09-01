@@ -16,7 +16,7 @@ const Testimonial = () => {
           <TextAppearAnimation>
             <p className="text-appear mx-auto mt-1.5 max-w-xl text-center md:mt-6 lg:max-w-3xl">
               "I've been using this service for over a year, and it has significantly improved my workflow. Highly
-              recommended for professionals looking for efficiency and reliability
+              recommended for professionals looking for efficiency and reliability"
             </p>
           </TextAppearAnimation>
         </div>

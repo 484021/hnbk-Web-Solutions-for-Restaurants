@@ -44,9 +44,9 @@ const About = ({ marquee = false }: AboutProps) => {
         <div className="flex flex-col items-center justify-center lg:items-stretch lg:justify-normal">
           <CircleTextAnimation />
           <h3 className="mx-auto mt-[34px]" ref={revealRef}>
-            We specialize in designing cutting-edge web <br className="hidden sm:block" />
-            experiences that flawlessly blend creativity with <br />
-            innovative technology.
+            We specialize in creating restaurant websites and digital solutions 
+            that boost orders, attract new customers 
+            and streamline operations.
             <br />
             <br />
             We provide customized solutions for <br className="hidden sm:block" />

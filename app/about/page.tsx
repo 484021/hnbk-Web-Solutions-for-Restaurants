@@ -17,15 +17,15 @@ const AboutPage = () => {
     <LayoutOne>
       <PageHero
         badgeTitle="About"
-        title="Digital Solution "
-        italicTitle="Agency"
-        description="As a agency we are working on client projects, official Webflow Templates and cloneables for the Webflow community."
+        title="Restaurant Web"
+        italicTitle="Solutions"
+        description="We help restaurant owners grow their business online with high-converting websites, branding, menus, and marketing solutions. Our focus is on making your restaurant stand out, attract more customers, and streamline operations."
       />
       <Video />
       <About />
       <Team />
-      <Marquee withBorder={true} />
-      <AwardsV2 />
+      {/* <Marquee withBorder={true} /> */}
+      {/* <AwardsV2 /> */}
       <CTA>
         Let's chat!
         <CtaImageSlider
