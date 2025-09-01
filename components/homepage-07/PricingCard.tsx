@@ -98,14 +98,13 @@ const PricingCard = ({ showHeader = false }: PricingProps) => {
             <RevealWrapperV2 className="border border-secondary px-[30px] pb-[30px] pt-8 dark:border-backgroundBody md:pt-20">
               <img src="/images/pricing-gradient-bg-1.png" className="absolute left-0 top-0" alt="Gradient color" />
               <div>
-               <div>
-                <h6 className="mb-4 max-md:text-3xl">Restaurant Web Project</h6>
+                <div>
+                  <h6 className="mb-4 max-md:text-3xl">Restaurant Web Project</h6>
                   <p className="text-base">
-                    Perfect for restaurant owners who want a complete digital solution — from branding and menus to websites and 
-                    online ordering systems that attract more customers.
+                    Perfect for restaurant owners who want a complete digital solution — from branding and menus to
+                    websites and online ordering systems that attract more customers.
                   </p>
                 </div>
-
 
                 <div className="flex flex-col items-start gap-x-10 gap-y-3 py-8 md:flex-row md:items-end md:gap-y-6">
                   <p className="text-6xl leading-[60px] text-secondary dark:text-backgroundBody">Custom</p>
@@ -191,57 +190,56 @@ const PricingCard = ({ showHeader = false }: PricingProps) => {
               </div>
             </RevealWrapperV2>
 
- <RevealWrapper className="border px-[30px] pb-[30px] pt-8 dark:border-dark md:pt-20">
-  <img src="/images/pricing-gradient-bg-2.png" className="absolute left-0 top-0" alt="Gradient color" />
-  <div>
-    <div>
-      <h6 className="mb-4 max-md:text-3xl">Restaurant Support Subscription</h6>
-      <p className="text-base">
-        A smart solution for growing restaurants needing ongoing branding, web, and marketing support — keeping
-        your online presence fresh, menus updated, and customer engagement high.
-      </p>
-    </div>
+            <RevealWrapper className="border px-[30px] pb-[30px] pt-8 dark:border-dark md:pt-20">
+              <img src="/images/pricing-gradient-bg-2.png" className="absolute left-0 top-0" alt="Gradient color" />
+              <div>
+                <div>
+                  <h6 className="mb-4 max-md:text-3xl">Restaurant Support Subscription</h6>
+                  <p className="text-base">
+                    A smart solution for growing restaurants needing ongoing branding, web, and marketing support —
+                    keeping your online presence fresh, menus updated, and customer engagement high.
+                  </p>
+                </div>
 
-    {pricingToggle ? (
-      <div>
-        <div className="flex flex-col items-start gap-x-10 gap-y-3 py-8 md:flex-row md:items-end md:gap-y-6">
-          <p className="text-6xl leading-[60px] text-secondary dark:text-backgroundBody">$500 /m</p>
-          <p className="text-sm leading-[18px] tracking-[-0.2px]">
-            Paid Monthly <br />
-            Cancel or pause anytime.
-          </p>
-        </div>
-      </div>
-    ) : (
-      <div>
-        <div className="flex flex-col items-start gap-x-10 gap-y-3 py-8 md:flex-row md:items-end md:gap-y-6">
-          <p className="text-6xl leading-[60px] text-secondary dark:text-backgroundBody">$22,000 /y</p>
-          <p className="text-sm leading-[18px] tracking-[-0.2px]">
-            Paid Yearly <br />
-            Cancel or pause anytime.
-          </p>
-        </div>
-      </div>
-    )}
+                {pricingToggle ? (
+                  <div>
+                    <div className="flex flex-col items-start gap-x-10 gap-y-3 py-8 md:flex-row md:items-end md:gap-y-6">
+                      <p className="text-6xl leading-[60px] text-secondary dark:text-backgroundBody">$500 /m</p>
+                      <p className="text-sm leading-[18px] tracking-[-0.2px]">
+                        Paid Monthly <br />
+                        Cancel or pause anytime.
+                      </p>
+                    </div>
+                  </div>
+                ) : (
+                  <div>
+                    <div className="flex flex-col items-start gap-x-10 gap-y-3 py-8 md:flex-row md:items-end md:gap-y-6">
+                      <p className="text-6xl leading-[60px] text-secondary dark:text-backgroundBody">$22,000 /y</p>
+                      <p className="text-sm leading-[18px] tracking-[-0.2px]">
+                        Paid Yearly <br />
+                        Cancel or pause anytime.
+                      </p>
+                    </div>
+                  </div>
+                )}
 
-    <Link href="/contact" className="rv-button rv-button-white !w-full">
-      <div className="rv-button-top !w-full !text-center">
-        <span className="!font-normal"> Request a Quote </span>
-      </div>
-      <div className="rv-button-bottom !w-full !text-center">
-        <span className="!font-normal"> Request a Quote </span>
-      </div>
-    </Link>
+                <Link href="/contact" className="rv-button rv-button-white !w-full">
+                  <div className="rv-button-top !w-full !text-center">
+                    <span className="!font-normal"> Request a Quote </span>
+                  </div>
+                  <div className="rv-button-bottom !w-full !text-center">
+                    <span className="!font-normal"> Request a Quote </span>
+                  </div>
+                </Link>
 
-    <ul className="mt-8 md:ml-7 [&>*:not(:last-child)]:mb-2 md:[&>*:not(:last-child)]:mb-3">
-      {customPricingList.map((priceList, idx) => (
-        <li
-          key={`list-${idx}`}
-          className="flex list-none gap-[10px] text-[17px] leading-[1.5] text-secondary/70 dark:text-backgroundBody/70"
-        >
-          {priceList.feature ? (
-            <span>
-               <svg
+                <ul className="mt-8 md:ml-7 [&>*:not(:last-child)]:mb-2 md:[&>*:not(:last-child)]:mb-3">
+                  {customPricingList.map((priceList, idx) => (
+                    <li
+                      key={`list-${idx}`}
+                      className="flex list-none gap-[10px] text-[17px] leading-[1.5] text-secondary/70 dark:text-backgroundBody/70">
+                      {priceList.feature ? (
+                        <span>
+                          <svg
                             xmlns="http://www.w3.org/2000/svg"
                             width="24"
                             height="24"
@@ -253,19 +251,16 @@ const PricingCard = ({ showHeader = false }: PricingProps) => {
                               fill="black"
                             />
                           </svg>
-            </span>
-          ) : (
-            <span>
-              {/* Keep the cross SVGs */}
-            </span>
-          )}
-          {priceList.list}
-        </li>
-      ))}
-    </ul>
-  </div>
-</RevealWrapper>
-
+                        </span>
+                      ) : (
+                        <span>{/* Keep the cross SVGs */}</span>
+                      )}
+                      {priceList.list}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </RevealWrapper>
           </div>
         </div>
       </div>

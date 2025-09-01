@@ -107,7 +107,6 @@
 
 // export default ServicesV8
 
-
 import getMarkDownData from '@/utils/GetMarkDownData'
 import Link from 'next/link'
 import RevealWrapper from '../animation/RevealWrapper'
@@ -121,7 +120,6 @@ export interface ServicesType {
 const loadedData: ServicesType[] = getMarkDownData('data/servicesV2')
 
 const services = loadedData.filter((data) => data.feature)
-
 
 const ServicesV8 = () => {
   return (
@@ -142,9 +140,9 @@ const ServicesV8 = () => {
           <div className="flex-1 max-md:w-full">
             <TextAppearAnimation>
               <p className="text-appear max-w-lg max-md:text-justify md:place-self-end md:text-right">
-                We specialize in building websites and digital solutions that help restaurants reach more customers, 
-                fill more tables, and grow their business. From online menus to ordering systems, our services make 
-                it easy for you to focus on what you do best—serving great food.
+                We specialize in building websites and digital solutions that help restaurants reach more customers,
+                fill more tables, and grow their business. From online menus to ordering systems, our services make it
+                easy for you to focus on what you do best—serving great food.
               </p>
             </TextAppearAnimation>
 
@@ -163,8 +161,6 @@ const ServicesV8 = () => {
           </div>
         </div>
       </div>
-
- 
 
       <div className="flex justify-center max-xl:flex-wrap max-xl:gap-5 xl:px-5 max-xl:[&>*:first-child]:border-r dark:max-xl:[&>*:first-child]:border-dark [&>*:last-child]:border-l [&>*:last-child]:border-r dark:[&>*:last-child]:border-l-dark dark:[&>*:last-child]:border-r-dark [&>*:not(:last-child)]:border-l dark:[&>*:not(:last-child)]:border-l-dark max-xl:[&>*:nth-child(2)]:border-r dark:max-xl:[&>*:nth-child(2)]:border-dark max-2xl:[&>*:nth-child(3)]:border-r dark:max-2xl:[&>*:nth-child(3)]:border-dark [&>*]:border-y dark:[&>*]:border-y-dark">
         {services?.map((service) => (

@@ -90,7 +90,6 @@
 
 // export default Community
 
-
 import communityImg from '@/public/images/community-image.jpg'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -139,8 +138,7 @@ const Community = () => {
               <span className="rv-badge-text">YouTube</span>
             </div>
             <h3 className="my-5 text-[25px] leading-[1.2] tracking-[-1.08px] md:my-8 lg:text-4xl">
-              Restaurant Marketing Tips <br className="hidden md:block" />
-              & Growth Tutorials
+              Restaurant Marketing Tips <br className="hidden md:block" />& Growth Tutorials
             </h3>
             <Link
               href="https://youtube.com/@hnbkwebsolutions"
