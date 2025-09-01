@@ -1,27 +1,40 @@
 ---
-title: 'Development'
-description: 'Which aspects of UI/UX design are you targeting? Consider:'
+title: 'Website Development'
+description: 'Which areas of your restaurant’s digital presence are you ready to improve? Consider:'
 coverImage: '/images/services/services-details2-img.png'
 badge: 'Services details'
-feature: ['User interface design (e.g., layouts, colors, typography)
-',
-'User experience design (e.g., interactions, user flows)']
+feature: [
+  'Custom restaurant websites that showcase your menu, story, and atmosphere',
+  'Online ordering and reservations built to increase sales and efficiency'
+]
 ---
 
-### Service overview
+### Service Overview
 
-At Rivor, we specialize in delivering comprehensive solutions that empower designers and businesses to bring their online visions to life. Our Figma to Framer conversion service streamlines the process of turning your Figma designs into stunning, fully functional websites on the Framer platform. With our expert team of developers and designers, we ensure a smooth transition from design to deployment, allowing you to focus on your core objectives while we take care of the technical details.
+At HNBK Web Solutions, we specialize in building modern websites and digital tools designed specifically for restaurants. Your website is often the first impression customers have of your food and hospitality—so it must capture attention, build trust, and make ordering or booking simple.  
 
-### Our service includes
+From beautifully designed menus to seamless online ordering systems, we help restaurants grow by making it easier for people to find, choose, and enjoy what you serve. Our goal: more filled tables, more online orders, and more loyal customers.
 
-In-Depth Research and Analysis: We conduct thorough research to understand your brand, target audience, and industry trends, ensuring your website aligns with your business goals.
+### Our Service Includes
 
-Competitor Analysis: A comprehensive review of your competitors' digital presence to identify opportunities and gaps, helping you stand out in the market.
+**Restaurant-Focused Design:** Websites crafted to reflect your brand, atmosphere, and cuisine, ensuring customers feel your hospitality even online.  
 
-User Experience (UX) Research: We gather insights on user behavior to inform design decisions, creating a website that offers an intuitive and engaging experience for visitors.
+**Online Ordering & Reservations:** Streamlined systems that let customers place orders or book tables directly—reducing reliance on costly third-party apps.  
+
+**Local SEO Optimization:** We optimize your website for “near me” searches so hungry customers can easily find you when it matters most.  
+
+**Menu Integration:** Interactive, mobile-friendly menus that are easy to update and encourage customers to explore your dishes.  
+
+**Performance & Mobile Speed:** Fast, responsive websites built to handle traffic spikes during busy dining hours.  
 
 ### Why Choose Us
 
-SEO and Content Strategy Research: We develop strategies based on keyword research and content trends to improve your site's visibility and search ranking
+**Built for Restaurants:** Unlike generic agencies, we understand the unique challenges of the restaurant industry—seasonal menus, local competition, customer reviews, and delivery logistics.  
 
-Technology and Platform Research: Our team evaluates the best technologies and platforms to ensure your website is built with the latest tools for optimal performance and scalability. the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
+**Customer Growth First:** Every feature we design is centered on helping you reach more people and keep them coming back.  
+
+**Future-Ready Technology:** We use the latest platforms to make your website secure, scalable, and easy to manage—so you can focus on running your restaurant, not troubleshooting tech.  
+
+**No-Code Updates:** Easily update your own menu, promotions, and specials without relying on a developer.  
+
+Grow your restaurant’s presence online, reach more diners, and let your food shine with a website built to serve your business.  

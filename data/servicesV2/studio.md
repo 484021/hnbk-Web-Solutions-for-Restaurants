@@ -1,27 +1,38 @@
 ---
-title: 'Studio'
-description: 'What specific design elements are you focusing on? Design can span across:'
+title: 'Creative Studio'
+description: 'What creative elements does your restaurant need to stand out? Studio services can include:'
 coverImage: '/images/services/services-details2-img.png'
 badge: 'Services details'
-feature: ['Visual design (e.g., branding, marketing assets)
-',
-'Digital design (e.g., app interfaces, website layouts)']
+feature: [
+  'Brand identity design (logos, color palettes, typography tailored for restaurants)',
+  'Marketing materials (menus, flyers, posters, social media visuals)'
+]
 ---
 
-### Service overview
+### Service Overview
 
-At Rivor, we specialize in delivering comprehensive solutions that empower designers and businesses to bring their online visions to life. Our Figma to Framer conversion service streamlines the process of turning your Figma designs into stunning, fully functional websites on the Framer platform. With our expert team of developers and designers, we ensure a smooth transition from design to deployment, allowing you to focus on your core objectives while we take care of the technical details.
+At HNBK Web Solutions, our Studio is where restaurant creativity meets strategy. We help you design and develop the visual identity that makes your restaurant unforgettable—both online and in person.  
 
-### Our service includes
+From your logo to your menus to your social media presence, we ensure everything is visually aligned and tells the story of your food, your atmosphere, and your hospitality. Think of our Studio as your creative partner, turning your vision into branding and designs that customers remember.  
 
-In-Depth Research and Analysis: We conduct thorough research to understand your brand, target audience, and industry trends, ensuring your website aligns with your business goals.
+### Our Service Includes
 
-Competitor Analysis: A comprehensive review of your competitors' digital presence to identify opportunities and gaps, helping you stand out in the market.
+**Brand Identity Design:** Logos, color schemes, and fonts crafted to reflect your restaurant’s unique personality and cuisine.  
 
-User Experience (UX) Research: We gather insights on user behavior to inform design decisions, creating a website that offers an intuitive and engaging experience for visitors.
+**Menu & Print Design:** Professionally designed menus, table cards, posters, and flyers that are both functional and visually appealing.  
+
+**Social Media Branding:** Templates, highlight covers, and consistent branding across Instagram, TikTok, and Facebook to attract and engage diners.  
+
+**Interior & Exterior Visuals:** Branded signage, wall menus, and in-house design elements that tie your dining experience together.  
 
 ### Why Choose Us
 
-SEO and Content Strategy Research: We develop strategies based on keyword research and content trends to improve your site's visibility and search ranking
+**Restaurant-Focused Creativity:** We understand the dining industry and know how to design assets that directly impact customer decisions.  
 
-Technology and Platform Research: Our team evaluates the best technologies and platforms to ensure your website is built with the latest tools for optimal performance and scalability. the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
+**Consistent Storytelling:** From your website to your physical menus, we create a seamless brand experience that builds recognition and loyalty.  
+
+**Growth-Driven Design:** Every design choice is tied back to customer attraction, retention, and sales—not just aesthetics.  
+
+**One-Stop Studio:** Instead of juggling multiple vendors, our studio handles all your creative needs under one roof, saving you time and ensuring consistency.  
+
+With the right creative assets, your restaurant won’t just serve food—it will serve an unforgettable brand experience.  

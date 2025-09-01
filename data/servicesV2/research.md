@@ -1,26 +1,38 @@
 ---
-title: 'Research'
-description: 'What specific research are you interested in? Research can range across a variety of fields such as'
+title: 'Market Research'
+description: 'What insights do you need to grow your restaurant? Research can focus on:'
 coverImage: '/images/services/services-details2-img.png'
 badge: 'Services details'
-feature: ['Scientific research (e.g., medical, environmental, technological studies)',
-'Market research (consumer trends, competitor analysis)']
+feature: [
+  'Customer insights (dining habits, local search behavior, online ordering trends)',
+  'Competitor analysis (menu pricing, promotions, digital presence)'
+]
 ---
 
-### Service overview
+### Service Overview
 
-At Rivor, we specialize in delivering comprehensive solutions that empower designers and businesses to bring their online visions to life. Our Figma to Framer conversion service streamlines the process of turning your Figma designs into stunning, fully functional websites on the Framer platform. With our expert team of developers and designers, we ensure a smooth transition from design to deployment, allowing you to focus on your core objectives while we take care of the technical details.
+At HNBK Web Solutions, we believe every successful restaurant starts with understanding its customers and competition. Our research services are designed to give restaurant owners the insights they need to make smarter decisions, attract more diners, and stay ahead in a competitive market.  
 
-### Our service includes
+From analyzing what local customers are searching for online to reviewing how competitors price and market their menus, we provide clear, actionable data that fuels growth.  
 
-In-Depth Research and Analysis: We conduct thorough research to understand your brand, target audience, and industry trends, ensuring your website aligns with your business goals.
+### Our Service Includes
 
-Competitor Analysis: A comprehensive review of your competitors' digital presence to identify opportunities and gaps, helping you stand out in the market.
+**Customer Behavior Research:** We analyze how potential diners search for food online, what platforms they use, and which factors influence their dining choices.  
 
-User Experience (UX) Research: We gather insights on user behavior to inform design decisions, creating a website that offers an intuitive and engaging experience for visitors.
+**Competitor Analysis:** A detailed look at your competitors’ websites, menus, promotions, and customer reviews—showing you where opportunities exist to stand out.  
+
+**Menu & Pricing Insights:** Data-driven suggestions on pricing strategies, trending dishes, and upselling opportunities that align with your market.  
+
+**Local Market Trends:** Research on dining patterns in your area, including seasonal demand, delivery vs. dine-in trends, and special event opportunities.  
 
 ### Why Choose Us
 
-SEO and Content Strategy Research: We develop strategies based on keyword research and content trends to improve your site's visibility and search ranking
+**Restaurant-Centered Approach:** Our research focuses only on the food and hospitality industry, so insights are always practical and relevant to your business.  
 
-Technology and Platform Research: Our team evaluates the best technologies and platforms to ensure your website is built with the latest tools for optimal performance and scalability. the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
+**Actionable Data:** We don’t just give you numbers—we translate research into clear steps you can take to attract more customers and grow revenue.  
+
+**Digital Growth Focused:** Everything we uncover is tied back to your online presence, ensuring your website, social media, and promotions are built for maximum impact.  
+
+**Competitive Advantage:** By knowing what your competitors are doing—and what your customers truly want—you’ll always stay one step ahead in your market.  
+
+With the right insights, you won’t just run your restaurant—you’ll lead your market.  

@@ -1,27 +1,39 @@
 ---
-title: 'Media'
-description: 'What specific design elements are you focusing on? Design can span across:'
+title: 'Media & Branding'
+description: 'What kind of restaurant story do you want to tell online? Media can highlight:'
 coverImage: '/images/services/services-details2-img.png'
 badge: 'Services details'
-feature: ['Visual design (e.g., branding, marketing assets)
-',
-'Digital design (e.g., app interfaces, website layouts)']
+feature: [
+  'Professional food & restaurant photography to showcase your dishes and atmosphere',
+  'Branded marketing assets (menus, posters, social media visuals) that attract customers'
+]
 ---
 
-### Service overview
+### Service Overview
 
-At Rivor, we specialize in delivering comprehensive solutions that empower designers and businesses to bring their online visions to life. Our Figma to Framer conversion service streamlines the process of turning your Figma designs into stunning, fully functional websites on the Framer platform. With our expert team of developers and designers, we ensure a smooth transition from design to deployment, allowing you to focus on your core objectives while we take care of the technical details.
+At HNBK Web Solutions, we help restaurants bring their story to life through powerful visuals and branding. In today’s digital-first world, your food needs to look as irresistible online as it does on the plate. That’s why we specialize in creating media that captures your unique atmosphere, builds trust with new customers, and drives people to visit your restaurant or place an order.  
 
-### Our service includes
+From mouth-watering food photography to consistent branding across your website, menus, and social media, we make sure your restaurant stands out both online and offline.  
 
-In-Depth Research and Analysis: We conduct thorough research to understand your brand, target audience, and industry trends, ensuring your website aligns with your business goals.
+### Our Service Includes
 
-Competitor Analysis: A comprehensive review of your competitors' digital presence to identify opportunities and gaps, helping you stand out in the market.
+**Food & Atmosphere Photography:** High-quality photos of your dishes, drinks, and restaurant space that make customers hungry before they even arrive.  
 
-User Experience (UX) Research: We gather insights on user behavior to inform design decisions, creating a website that offers an intuitive and engaging experience for visitors.
+**Video Content Creation:** Short-form videos and reels for Instagram, TikTok, and your website—perfect for showcasing your chefs in action, behind-the-scenes moments, or special events.  
+
+**Branded Marketing Assets:** Custom-designed menus, posters, flyers, and digital graphics that reflect your restaurant’s identity and keep your brand consistent everywhere.  
+
+**Social Media Ready Content:** Optimized visuals and templates so you can share promotions, specials, and events quickly across your channels.  
 
 ### Why Choose Us
 
-SEO and Content Strategy Research: We develop strategies based on keyword research and content trends to improve your site's visibility and search ranking
+**Restaurant-Specific Expertise:** We understand what makes food and dining experiences appealing, and we design visuals that sell the feeling of your restaurant—not just the dishes.  
 
-Technology and Platform Research: Our team evaluates the best technologies and platforms to ensure your website is built with the latest tools for optimal performance and scalability. the 'Best Sellers No-Code Website'! Seamlessly blending creativity and functionality, this innovative platform empowers businesses to showcase their top products with style and efficiency. Say goodbye to coding hassles and hello to
+**Customer-Centered Approach:** Every piece of media we create is designed to attract more foot traffic, increase online engagement, and convert viewers into paying customers.  
+
+**Consistency Across Platforms:** From your website to Instagram to in-house menus, we ensure your restaurant looks professional and aligned everywhere.  
+
+**Growth-Driven:** Beautiful branding isn’t just about looks—it’s about filling more tables, getting more online orders, and building long-term customer loyalty.  
+
+With the right media, your restaurant’s story becomes unforgettable—online, on the street, and in the hearts of your customers.  
+
